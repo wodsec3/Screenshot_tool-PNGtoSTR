@@ -1,5 +1,5 @@
 # pip install pywhatkit
-
+# YOU NEED CONNECT TO INTERNET FOR RUN PROGRAM . . . ! 
 import os
 import random
 import datetime
